@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@monaco-editor/react": "^4.4.5",
-    "@sentry/nextjs": "^8.10.0",
+    "@sentry/nextjs": "^8.32.0",
     "allotment": "^1.17.0",
     "compress-json": "^2.1.1",
     "html-to-image": "^1.10.8",
