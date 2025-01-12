@@ -19,7 +19,7 @@
     "allotment": "^1.17.0",
     "compress-json": "^2.1.1",
     "html-to-image": "^1.10.8",
-    "next": "^14.2.10",
+    "next": "^14.2.21",
     "next-transpile-modules": "^9.0.0",
     "parse-json": "^6.0.2",
     "react": "^18.2.0",
